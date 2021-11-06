@@ -1,4 +1,4 @@
-### Hi there 👋 I am Alex
+<center>### Hi there 👋 I am Alex
 
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning on Microverse
@@ -12,4 +12,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/{AlexRS90}/count.svg)
 
 
-![Alex github stats](https://github-readme-stats.vercel.app/api?username=AlexRS90&show_icons=true&hide_border=true)
+![Alex github stats](https://github-readme-stats.vercel.app/api?username=AlexRS90&show_icons=true&hide_border=true)</center>
