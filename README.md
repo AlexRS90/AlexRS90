@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I love burgers 🍔
 
 
-
+![Alex github stats](https://github-readme-stats.vercel.app/api?username=AlexRS90&show_icons=true&hide_border=true)
