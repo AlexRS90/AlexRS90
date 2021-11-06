@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love burgers 🍔
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{AlexRS90}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{AlexRS90}/count.svg)
 
 
 ![Alex github stats](https://github-readme-stats.vercel.app/api?username=AlexRS90&show_icons=true&hide_border=true)
