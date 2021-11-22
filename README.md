@@ -29,9 +29,10 @@
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/><br><br>
 
   
-## Microverse Badge:
+## Microverse Badges:
 
-<img align="center" alt="HTML/CSS Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
+<img align="left" alt="HTML/CSS Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
+<img align="center" alt="JavaScript Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/41875045"/>
 
 ## Visitors:
 
