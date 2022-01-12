@@ -32,7 +32,8 @@
 ## Microverse Badges:
 
 <img align="left" alt="HTML/CSS Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
-<img align="center" alt="JavaScript Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/41875045"/>
+<img align="left" alt="JavaScript Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/41875045"/>
+<img align="center" alt="React-Redux Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44191009"/>
 
 ## Visitors:
 
