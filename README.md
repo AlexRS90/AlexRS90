@@ -48,4 +48,4 @@
 
 
 [twitter]: https://twitter.com/AlejandroRBenji
-[linkedin]: https://linkedin.com/in/alejandro-ramos-santos-9b0b52135/
+[linkedin]: https://www.linkedin.com/in/AlexRS90/
