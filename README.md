@@ -36,10 +36,11 @@
   
 ## Microverse Badges:
 
-<img align="left" alt="HTML/CSS Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
-<img align="left" alt="JavaScript Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/41875045"/>
-<img align="left" alt="React-Redux Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44191009"/>
-<img align="center" alt="Ruby Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46299812"/>
+<img align="left" width="150px" alt="HTML/CSS Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
+<img align="left" width="150px" alt="JavaScript Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/41875045"/>
+<img align="left" width="150px" alt="React-Redux Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44191009"/>
+<img align="left" width="150px" alt="Ruby Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46299812"/>
+<img align="center" width="150px" alt="Rails Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48267130"/>
 
 ## Visitors:
 
