@@ -2,9 +2,9 @@
 ## Hi there 👋 I am Alex
 
 - 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning at Microverse
+- 👓 I’m currently looking for new opportunities
 - 👯 I’m looking to collaborate on new projects
-- 💬 Ask me about front end development, 🏃 running, anime!!!
+- 💬 Ask me about Back-end development, 🏃 running, anime!!!
 - ⚡ Fun fact: I love burgers 🍔, Pumas supporter (mexican football team) ⚽
 - Get in touch ⏬
 
